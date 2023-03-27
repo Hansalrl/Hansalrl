@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/hansalrl" alt="Profile Views">
 </p>
-<p align="right">Last updated: <b><!--TIMESTAMP--></b></p>
+<p align="right">Last updated: ![Last updated](https://img.shields.io/github/last-commit/Hansalrl/Hansalrl?style=flat-square)
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&font=Satisfy&color=4c566a&center=true&vCenter=true&lines=Yohanes+Sabattian+Adeleony.;22+Tahun;Kota+Semarang+Jawa+Tengah)](https://git.io/typing-svg) ______________
 
