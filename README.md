@@ -45,3 +45,13 @@
 <p align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Hansalrl&theme=react-dark&hide_border=true&area=true" />
 </p>
+
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Hansalrl/Hansalrl/main/images/javascript.svg" />][javascript]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/Hansalrl/Hansalrl/main/images/html5.svg" />][html5]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/Hansalrl/Hansalrl/main/images/css3.svg" />][css3]
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/Hansalrl/Hansalrl/main/images/bootstrap.svg" />][bootstrap]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/Hansalrl/Hansalrl/main/images/nodejs.svg" />][nodejs]
+[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/Hansalrl/Hansalrl/main/images/express.svg" />][express]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/Hansalrl/Hansalrl/main/images/mongodb.svg" />][mongodb]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/Hansalrl/Hansalrl/main/images/react.svg" />][react]
