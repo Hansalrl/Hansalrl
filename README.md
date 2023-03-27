@@ -32,3 +32,16 @@
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" alt="Django">
 </p>
+
+<!-- GitHub Stats -->
+<h2 align="center">GitHub Stats 📈</h2>
+<p align="center">
+  <a href="https://github.com/Hansalrl"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hansalrl&theme=react&count_private=true&show_icons=true&include_all_commits=true" /></a>
+  <a href="https://github.com/Hansalrl"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansalrl&theme=react&langs_count=3&layout=compact" /></a>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hansalrl&theme=react" />
+</p>
+<p align="center">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Hansalrl&theme=react-dark&hide_border=true&area=true" />
+</p>
