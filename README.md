@@ -32,3 +32,10 @@
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" alt="Django">
 </p>
+<!-- Skill Statistics -->
+<h2 align="center">Skill Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansalrl&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages">
+</p>
+
