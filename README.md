@@ -39,3 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansalrl&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages">
 </p>
 
+<!-- Last updated: yyyy-mm-dd -->
+<p align="right"><em>Last updated: 2023-03-27</em></p>
+
