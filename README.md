@@ -15,3 +15,32 @@ ___
 
 ___
 
+___
+
+ # SOSIAL MEDIA 
+
+[![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://ig.me/creazyuwetea)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289525609596)
+[![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/creazyuwetea)
+
+___
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hansalrl"><img src="https://github-readme-stats.vercel.app/api?username=Hansalrl&theme=tokyonight&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hansalrl"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hansalrl&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hansalrl"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hansalrl&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/Hansalrl"><img src="https://github-profile-trophy.vercel.app/?username=Hansalrl&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
+
