@@ -7,6 +7,9 @@
 ___
 <p align="center">
   <a href="https://github.com/Hansalrl"><img title="Author" src="https://img.shields.io/badge/Author-Hansalrl-red.svg?style=for-the-badge&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ___
