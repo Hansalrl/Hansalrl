@@ -1,8 +1,10 @@
 <h1 align="center">Welcome to My GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br></h1>
-
 <p align="center">
   <img src="https://gpvc.arturio.dev/hansalrl" alt="Profile Views">
 </p>
+<p align="right">Last updated: <b><!--TIMESTAMP--></b></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&font=Satisfy&color=4c566a&center=true&vCenter=true&lines=Yohanes+Sabattian+Adeleony.;22+Tahun;Kota+Semarang+Jawa+Tengah)](https://git.io/typing-svg) ______________
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Hansalrl&theme=tokyonight&show_icons=true" />
@@ -13,10 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansalrl&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages">
 </p>
 
-<div align="center">
-  <p><img src="https://readme-typing-svg.herokuapp.com?size=30&font=Satisfy&color=4c566a&center=true&vCenter=true&lines=Yohanes+Sabattian+Adeleony.;22+Tahun;Kota+Semarang+Jawa+Tengah" /></p>
-</div>
-
 <p align="center">
   <a href="https://github.com/Hansalrl">
     <img src="https://img.shields.io/badge/Author-Hansalrl-red.svg?style=for-the-badge&logo=github" />
@@ -25,6 +23,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
+
 
 <p align="center">
   <a href="https://ig.me/creazyuwetea">
