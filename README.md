@@ -1,43 +1,94 @@
-<!-- Header -->
-<h1 align="center">Welcome to My GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br></h1>
-<p align="center">
-  <img src="https://gpvc.arturio.dev/hansalrl" alt="Profile Views">
-</p>
+<!-- Skill Menu -->
+<div align="center">
+  <h2>Skill</h2>
+  <p>Select a skill category:</p>
+  <nav>
+    <a href="#frontend" class="menu-item">Frontend</a>
+    <a href="#backend" class="menu-item">Backend</a>
+    <a href="#database" class="menu-item">Database</a>
+  </nav>
+</div>
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&font=Satisfy&color=4c566a&center=true&vCenter=true&lines=Yohanes+Sabattian+Adeleony.;22+Tahun;Kota+Semarang+Jawa+Tengah" alt="Typing SVG">
-</p>
+<!-- About Me Menu -->
+<div align="center">
+  <h2>About Me</h2>
+  <p>Select a topic:</p>
+  <nav>
+    <a href="#bio" class="menu-item">Bio</a>
+    <a href="#education" class="menu-item">Education</a>
+    <a href="#hobbies" class="menu-item">Hobbies</a>
+  </nav>
+</div>
 
-<!-- About Me -->
-<p align="center">
-  Hi there! I'm Yohanes Sabattian Adeleony, a Web Developer from Indonesia.
-  <br>
-  I am passionate about learning new technologies and developing web applications.
-</p>
+<!-- Styling for the menu -->
+<style>
+  .menu-item {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #6c63ff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
 
-<!-- Technologies -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express" alt="Express.js">
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django" alt="Django">
-</p>
-<!-- Skill Statistics -->
-<h2 align="center">Skill Statistics</h2>
+  .menu-item:hover {
+    transform: scale(1.1);
+    background-color: #ff5e5e;
+  }
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansalrl&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages">
-</p>
+  nav {
+    display: inline-block;
+    margin-top: 10px;
+    position: relative;
+  }
+
+  nav::before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid #6c63ff;
+    left: -15px;
+    top: 10px;
+    transition: all 0.3s ease-in-out;
+  }
+
+  nav:hover::before {
+    border-right: 10px solid #ff5e5e;
+  }
+</style>
+
+<!-- JavaScript for the random arrow colors -->
+<script>
+  // Select all the menu items
+  const menuItems = document.querySelectorAll(".menu-item");
+
+  // Define the colors to choose from
+  const colors = [
+    "#6c63ff",
+    "#ff5e5e",
+    "#2cb67d",
+    "#f6c85f",
+    "#9b59b6",
+    "#e74c3c",
+    "#3498db",
+    "#1abc9c",
+    "#f1c40f",
+    "#95a5a6"
+  ];
+
+  // Loop through the menu items and assign a random color to each arrow
+  menuItems.forEach(item => {
+    const arrow = item.parentNode.parentNode.querySelector("nav::before");
+    const color = colors[Math.floor(Math.random() * colors.length)];
+    arrow.style.borderRightColor = color;
+    item.style.backgroundColor = color;
+  });
+</script>
 
 <!-- Last updated: yyyy-mm-dd -->
 <p align="right"><em>Last updated: 2023-03-27</em></p>
