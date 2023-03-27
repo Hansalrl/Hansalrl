@@ -39,3 +39,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansalrl&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages">
 </p>
 
+<!-- Portfolio -->
+## Portfolio
+
+### Project 1
+**Description:** This is a web application built with React.js and Node.js that allows users to create and manage their to-do lists.  
+**GitHub Repository:** [https://github.com/Hansalrl/todo-app](https://github.com/Hansalrl/todo-app)  
+**Live Demo:** [https://hansalrl.github.io/todo-app/](https://hansalrl.github.io/todo-app/)
+
+### Project 2
+**Description:** This is a mobile app built with React Native that allows users to track their daily water intake.  
+**GitHub Repository:** [https://github.com/Hansalrl/water-tracker](https://github.com/Hansalrl/water-tracker)  
+**Live Demo:** N/A
+
+### Project 3
+**Description:** This is a web application built with Django that allows users to create and manage their blog posts.  
+**GitHub Repository:** [https://github.com/Hansalrl/blog-app](https://github.com/Hansalrl/blog-app)  
+**Live Demo:** Comming Soon
+
