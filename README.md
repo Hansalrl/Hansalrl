@@ -51,12 +51,5 @@
   <a href="https://github.com/hansalrl"><img src="https://github-profile-trophy.vercel.app/?username=hansalrl&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
 
-<tabel>
-<tr>
-<th align="center">Untuk akun pengguna</th>
-</tr>
-<tr>
-<td align="pusat">
-<img alt="" width="400" src="https://github.com/Hansalrl/Hansalrl/blob/main/metrics.classic.svg" alt=""></img>
-</td>
-</tr>
+![Metrics](https://github.com/Hansalrl/Hansalrl/blob/main/metrics.classic.svg)
+
