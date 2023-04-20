@@ -52,7 +52,5 @@
 <!-- GitHub Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansalrl&theme=dark)
 
-<!-- GitHub Stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hansalrl&show_icons=true&theme=dark)
 
 <a href="https://whalesmining.com/?ref=hansalrl"><img src="https://whalesmining.com/banners/whalesmining468.gif"/></a>
