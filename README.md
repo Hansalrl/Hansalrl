@@ -54,13 +54,9 @@
 <tabel>
 <tr>
 <th align="center">Untuk akun pengguna</th>
-<th align="center">Untuk akun organisasi</th>
 </tr>
 <tr>
 <td align="pusat">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-</td>
-<td align="pusat">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/Hansalrl/Hansalrl/blob/main/metrics.classic.svg" alt=""></img>
 </td>
 </tr>
