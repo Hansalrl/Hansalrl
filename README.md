@@ -36,7 +36,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hansalrl&theme=react" />
 </p>
-
+<p align="center">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Hansalrl&theme=react-dark&hide_border=true&area=true" />
+</p>
 <!-- GitHub Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansalrl&theme=dark)
 
