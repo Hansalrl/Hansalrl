@@ -51,5 +51,16 @@
   <a href="https://github.com/hansalrl"><img src="https://github-profile-trophy.vercel.app/?username=hansalrl&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
 
-![alt text](https://raw.githubusercontent.com/hansalrl/hansalrl/branch/path/to/image.svg)
-
+<tabel>
+<tr>
+<th align="center">Untuk akun pengguna</th>
+<th align="center">Untuk akun organisasi</th>
+</tr>
+<tr>
+<td align="pusat">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+</td>
+<td align="pusat">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+</td>
+</tr>
