@@ -34,11 +34,21 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hansalrl&theme=react" />
+  <a href="https://github.com/Fxc7"><img src="https://github-readme-stats.vercel.app/api?username=Fxc7&theme=tokyonight&show_icons=true" /></a>
 </p>
+
 <p align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Hansalrl&theme=react-dark&hide_border=true&area=true" />
+  <a href="https://github.com/Fxc7"><img src="https://github-readme-streak-stats.herokuapp.com?user=Fxc7&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
+  
+<p align="center">
+  <a href="https://github.com/Fxc7"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fxc7&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/Fxc7"><img src="https://github-profile-trophy.vercel.app/?username=Fxc7&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
+  
 <!-- GitHub Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansalrl&theme=dark)
 
