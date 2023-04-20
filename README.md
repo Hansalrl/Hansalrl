@@ -48,9 +48,5 @@
 <p align="center">
   <a href="https://github.com/hansalrl"><img src="https://github-profile-trophy.vercel.app/?username=hansalrl&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
-  
-<!-- GitHub Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansalrl&theme=dark)
-
 
 <a href="https://whalesmining.com/?ref=hansalrl"><img src="https://whalesmining.com/banners/whalesmining468.gif"/></a>
