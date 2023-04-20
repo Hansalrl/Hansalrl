@@ -1,9 +1,5 @@
 <!-- Header -->
 <h1 align="center">Welcome to My GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br></h1>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hansalrl/count.svg" />
-</p>
 
 
 <!-- Typing SVG -->
@@ -51,5 +47,9 @@
   <a href="https://github.com/hansalrl"><img src="https://github-profile-trophy.vercel.app/?username=hansalrl&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
 
-![Metrics](https://github.com/Hansalrl/Hansalrl/blob/main/metrics.classic.svg)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hansalrl/count.svg" />
+</p>
+
 
