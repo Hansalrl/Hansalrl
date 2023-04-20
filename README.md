@@ -51,5 +51,5 @@
   <a href="https://github.com/hansalrl"><img src="https://github-profile-trophy.vercel.app/?username=hansalrl&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
 
-![alt text](https://raw.githubusercontent.com/username/reponame/branch/path/to/image.svg)
+![alt text](https://raw.githubusercontent.com/hansalrl/hansalrl/branch/path/to/image.svg)
 
